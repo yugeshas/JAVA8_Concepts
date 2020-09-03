@@ -43,11 +43,21 @@ public class LambdaUsingInterface{
 		
 		//using static reference 
 		System.out.println("Access lambda functions by declaring it as static variables");
-		lui.print(lui.calculate(add, sub, multiplication), printAns); 
-		lui.print(lui.calculate(add, sub, lui.division), printAns); 
+		printAns.print(lui.calculate(add, sub, multiplication)); 
+		printAns.print(lui.calculate(add, sub, lui.division)); 
 			
 		
 	
 	}
 
 }
+
+/******************************OUTPUT******************************
+Access lambda functions through class methods 
+8
+6
+Access lambda functions by declaring it as static variables
+48
+1		
+*****************************************************************/
+
