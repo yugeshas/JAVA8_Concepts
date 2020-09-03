@@ -1,6 +1,6 @@
 package com.features.lambda;
-import com.features.interfaces.StringOperations;
-import com.features.interfaces.Print;
+import com.interfaces.StringOperations;
+import com.interfaces.Print;
 
 public class LambdaUsingInterfaceForStrings{
 	

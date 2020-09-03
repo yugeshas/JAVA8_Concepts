@@ -1,6 +1,6 @@
 package com.features.lambda;
-import com.features.interfaces.Calculator;
-import com.features.interfaces.Print;
+import com.interfaces.Calculator;
+import com.interfaces.Print;
 
 public class LambdaUsingInterface{
 	

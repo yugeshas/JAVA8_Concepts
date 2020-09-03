@@ -1,4 +1,4 @@
-package com.features.interfaces;
+package com.interfaces;
 
 public interface Calculator {
 	

@@ -1,7 +1,7 @@
 package com.features.lambda;
 import java.util.ArrayList; 
 import java.util.List; 
-import com.features.interfaces.Print;
+import com.interfaces.Print;
 
 public class IteratingElementsUsingLambda {
 
