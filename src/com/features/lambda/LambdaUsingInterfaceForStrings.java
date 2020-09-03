@@ -34,10 +34,7 @@ public class LambdaUsingInterfaceForStrings{
 }
 
 /******************************OUTPUT******************************
-Access lambda functions through class methods 
-8
-6
-Access lambda functions by declaring it as static variables
-48
-1		
+Hello World!
+Given strings are different!
+String ab is a substring of string abcde
 *****************************************************************/
